@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋,soy Juan🚀 Un apasionado fullstack developer en Colombia</h1> 
 - 🔭Actualmente estoy trabajando en un proyecto grupal **en el bootcamp soyHenry**
 
-- 🌱 Actualmente estoy aprendiendo **Typescript,React Native, java y me encantaría aprender python**
 
 - 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://github.com/juan7914](https://github.com/juan7914)
 
