@@ -4,7 +4,7 @@
 
 - 👨‍💻 Encontraras todos mis proyectos subidos aquí [https://github.com/juan7914](https://github.com/juan7914)
 
-- 💬 pregúntame sobre **react, javascript, node.js, express, postgresSQL, html y react hooks css,**
+- 💬 pregúntame sobre **react, javascript,html5,css3, node.js, express,mongoDb, mongoose, postgresSQL y react hooks**
 
 - 📫 Puedes escribirme a **juanmurillop2021@gmail.com**
 
